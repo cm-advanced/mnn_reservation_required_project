@@ -1,0 +1,14 @@
+name = MNN Reservation Required Project
+description = "Will make Project (or any organic group actually) be required for a reservation"
+
+
+files[] = mnn_reservation_required_project.module
+
+package = "MNN Community Media Advanced"
+version = "7.x-1.0"
+core = "7.x"
+project = "mnn_reservation_required_project"
+project_status_url = https://github.com/cm-advanced/mnn_reservation_required_project
+php = "5.2.4"
+
+
